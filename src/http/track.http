@@ -1,0 +1,5 @@
+# curl --request GET \
+#   --url https://api.spotify.com/v1/audio-features/11dFghVXANMlKmJXsNCbNl \
+#   --header 'Authorization: Bearer 
+
+GET https://api.spotify.com/v1/audio-features/11dFghVXANMlKmJXsNCbNl

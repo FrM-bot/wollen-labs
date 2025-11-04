@@ -1,0 +1,47 @@
+{
+  "tracks": {
+    "track": [
+      {
+        "name": "The Fate of Ophelia",
+        "duration": "226",
+        "playcount": "11074851",
+        "listeners": "662476",
+        "mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
+        "url": "https://www.last.fm/music/Taylor+Swift/_/The+Fate+of+Ophelia",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Taylor Swift",
+          "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+          "url": "https://www.last.fm/music/Taylor+Swift"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ]
+      }
+    ],
+    "@attr": {
+      "page": "1",
+      "perPage": "50",
+      "totalPages": "18801169",
+      "total": "940058445"
+    }
+  }
+}

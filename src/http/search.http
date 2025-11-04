@@ -1,0 +1,15 @@
+GET https://api.spotify.com/v1/search?q=year:2000&type=track&limit=50
+Authorization: Bearer 
+
+###
+
+GET https://api.spotify.com/v1/search?q=Top%20Hits%202000&type=playlist&limit=1
+Authorization: Bearer 
+
+###
+GET https://api.spotify.com/v1/playlists/7E3uEa1emOcbZJuB8sFXeK/tracks
+Authorization: Bearer 
+
+###
+GET https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai
+Authorization: Bearer 

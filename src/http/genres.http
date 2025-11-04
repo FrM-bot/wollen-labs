@@ -1,0 +1,19 @@
+### Analizar géneros de múltiples años (default: 2000, 2010, 2020, 2024)
+GET http://localhost:3000/api/genres/analyze
+
+###
+
+### Analizar géneros de años específicos
+GET http://localhost:3000/api/genres/analyze?years=2000,2010,2020,2024
+
+###
+
+### Analizar géneros con límite personalizado de tracks
+GET http://localhost:3000/api/genres/analyze?years=2015,2020,2024&limit=30
+
+###
+
+### Analizar un solo año
+GET http://localhost:3000/api/genres/analyze?years=2024&limit=50
+
+###
